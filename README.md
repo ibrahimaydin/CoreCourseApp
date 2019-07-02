@@ -1,0 +1,2 @@
+# CoreCourseApp
+Core Projesi
